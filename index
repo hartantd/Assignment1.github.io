@@ -1,0 +1,145 @@
+<!doctype html>
+
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <style>
+  body {
+  	font: 16px Garamond, sans-serif;
+  	text-align: justify;
+  }
+  img {
+  	display: block;
+  	page-break-before: auto;
+  	page-break-after: auto;
+  	page-break-inside: avoid;
+  }
+  h2 {
+  	background-color: lemonchiffon;
+  	margin: 0px;
+  }
+
+  h3, h4 {
+  	height: 5px;
+  }
+
+  #box {
+  background-color: white;
+  padding: 10px;
+  border: 5px solid black;
+  box-sizing: border-box;
+  height: 600px;
+  margin-top: 50px;
+  overflow: auto;
+  }
+  </style>
+  <title>Darian's Page!</title>
+  <div>
+  	<a href="Index/html">Index</a>
+  	<a href="">Resume</a>
+  </div>
+</head>
+
+<body>
+	<div>
+		<h1 style="font-family: Arial" align="center">Darian's Portfolio!</h1>
+		<img src="MACFormulaHeadshot.JPG" alt="DarianHeadShot" height="50%" width="50%" align="center" />
+  			<h2 style="font-family: Arial;">Index</h2>
+  				<p style="font-family: Arial">I am a McMaster Graduate Student, my field of study is Masters of Engineering, Entrepreneurship and Innovation. I completed my bachelor of applied science in mechanical engineering in University of Ottawa by the end of Winter 2018. I chose this program because of my passion and interest to learn while building my business. Thus, I believed that such program can give me the necessary skills, tools and teammates to start with.</p>
+  				<h2 style="font-family: Arial;">Profile Data</h2>
+  				<p style="font-family: Arial">Date of Birth: 13th March 1995. <br>
+  				Birthplace: Siloam Hospital, Jakarta, Indonesia. <br>
+  				School: Bina Bangsa School, Sinarmas World Academy</p>
+  			<hr>
+  			<h2>Resume</h2>
+  			<div id="box">
+  				<p><h3>Skills:</h3>
+  				<ul>
+  					<li>Adept at hands on workshop such as drilling, filing and welding by working in Formula SAE for over 2 years.</li>
+  					<li>Excellent communication and presentation skills through various projects and internship.</li>
+  					<li>Gained excelled teamwork and leadership skills by initiative volunteering and working collaboratively with various colleagues.</li>
+  					<li>Adequate skills with SolidWorks that is learned and used throughout my mechanical engineering degree and Formula SAE.</li>
+  					<li>Developed programming skills by taking software prototyping classes and parametrizing SolidWorks component on MATLAB as part of the requirement to complete the capstone project.</li>
+  				</ul>
+  				<h3>Education:</h3>
+  				<b>Masters of Engineering, Entrepreneurship and Innovation</b> <span style="float:right;">September 2018 - Ongoing</span> <br>
+  				McMaster University, Hamilton, ON <span style="float:right;">Expected Graduation Date: Winter 2020</span>
+  				Projects:
+  				<ul>
+  					<li>Masters: HOUND, innovation in connection landlords and tenants.</li>
+  					<li>Formula SAE: MAC Formula Electric.</li>
+  				</ul>
+  				<b>Bachelor of Applied Science, Mechanical Engineering</b> <br>
+  				University of Ottawa, Ottawa, ON <span style="float:right;">September 2013 - April 2018</span> <br>
+  				7.02 out of 10, Cum Laude
+  				Awards:
+  				<ul>
+  					<li>$2000 admission scholarship, Fall 2013</li>
+  					<li>Dean's honour list, Winter 2018</li>
+  				</ul>
+  				Projects:
+  				<ul>
+  					<li>Capstone: UAV air trike.</li>
+  					<li>Formula SAE: Formula uOttawa</li>
+  				</ul>
+  				Training Certificates:
+  				<ul>
+  					<li>Dry lab & safety.</li>
+  					<li>Basic shop.</li>
+  					<li>Basic lathe.</li>
+  					<li>Basic mill.</li>
+  				</ul>
+  				<h3>Relevant Projects</h3>
+  				<ol>
+  					<li><h4><b>Masters</b></h4></li>
+  				HOUND<span style="float: right;">September 2018 - Ongoing</span><br>
+  				Co - Founder and Chief Research Officer
+  				<ul>
+  					<li>Provided deliverables and presentations to the W. Booth School department to be elected as among the best Startup ideas to public present in downtown Hamilton Public Library on the December 10th.</li>
+  					<li>Interviewed stakeholders as part of the team's primary research to address customer and consumer needs.</li>
+  				</ul>
+  					<li><h4><b>Formula SAE</b></h4></li>
+  				<img src="FormulauOttawa.JPG" alt="FuOttawaLogo" width="150" height="150"/>
+  				Formula uOttawa <span style="float:right;">September 2016 - May 2018</span><br>Body Team Member
+  				<ul>
+  					<li>Built the front bodywork by epoxying Dacron fabric around the layup and the front bulkhead of the chassis to pass the bodywork inspection test in Formula North.</li>
+  					<li>Utilized various sanding techniques and fiberglass molding with epoxy resin to build the nose cone layup.</li>
+  					<li>Constructed brackets, side panels, side pods and tabs through metal fabrication techniques for other parts of the car system.</li>
+  				</ul>
+  					<li><h4><b>Capstone Project</b></h4></li>
+  					UAV Air Trike <span style="float:right;">September 2017 - December 2017</span>
+  					<ul>
+  						<li>Designed the rear landing assembly of an air trike to withstand rough landing.</li>
+  						<li>Modeled the kinematic, dynamic and kinetic aspect of the air trike under steady levelled flight and rough landing to estimate its velocity, leaf spring's deflection and rear wheel's impact force.</li>
+  						<li>Calculated the minimum dimensions of the leaf spring and rear wheel axle with a predetermined safety factor of 2 to with stand rough landing.</li>
+  						<li>Modelled the respective parts in SolidWorks to be assembled with the other components of the trike.</li>
+  						<li>Programmed and linked a MATLAB code to the respective SolidWorks assembly for parametrization based on the trike's gross weight.</li>
+  					</ul>
+  					<li><h4><b>Employment Experience</b></h4></li>
+  					Pt. BICC Berca Cables, Balaraja, Tangerang, Indonesia <span style="float: right;">May 2016 - August 2016</span>
+  					<img src="BICCLogo.PNG" alt="BICCLogo" width="150" height="150"/>
+  					Engineering Intern
+  					<ul>
+  						<li>Worked with the quality control department to perform 2 material tests:
+  							<ul>
+  								<li>Tensile tests on incoming conduction and isolation materials to ensure required tensile strength.</li>
+  								<li>Insulation tests on finished voltage cable to ensure no current leakage.</li>
+  							</ul>
+  						</li>
+  						<li>Worked with technical operators as a student technician to run different sets of machineries:</li>
+  						<ul>
+  							<li>Preparation of cable drums for wiring and precipitation hardening of AAA aluminum.</li>
+  							<li>Fed bags of polymer pellets with a remote - controlled crane to an extrusion hopper as part of the cable production.</li>
+  						</ul>
+  						<ul>Worked with the production general manager and foreign contractor to construct a degassing chamber for high voltage production cable:
+  							<li>Purchased a variety of tools for supplies with process engineers as part of the construction preparation.</li>
+  							<li>Translated between English and Mandarin to oversee communication and construction progress.</li>
+  						</ul>
+  					</ul>
+  				</ol>
+  			</p>
+  			</div>
+  			
+	</div>
+ </body>
+</html>
